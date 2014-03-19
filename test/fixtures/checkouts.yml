@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  person: MyString
+  book_id: 1
+  checked_in_at: 2014-03-19 11:13:31
+
+two:
+  person: MyString
+  book_id: 1
+  checked_in_at: 2014-03-19 11:13:31
