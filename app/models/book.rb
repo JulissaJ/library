@@ -1,4 +1,5 @@
 class Book < ActiveRecord::Base
+	belongs_to :categorization
 	has_many :checkouts
 	validates :title, presence: true
 	validates :author, presence: true
